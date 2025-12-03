@@ -1,5 +1,3 @@
-### Hi there 👋 I’m YOUR_USERNAME
-
 - 🔭 Computer-science + cybersecurity student  
 - 🌱 Currently learning **Go**  
 - 🏗️ Building  
